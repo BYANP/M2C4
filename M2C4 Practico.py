@@ -60,5 +60,5 @@ print(lista)
 
 # Ejercicio 9
 
-tupla = tupla + ("amarillo",)
+tupla  += ("amarillo",)
 print(tupla)
